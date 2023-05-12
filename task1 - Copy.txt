@@ -1,0 +1,11 @@
+
+Paper Title: A Survey on Stock Market Prediction Using Machine Learning Techniques
+
+Overleaf link:
+https://www.overleaf.com/read/zpxqcqkhqxcg
+
+Video Link: https://www.youtube.com/watch?v=lSCb2l4dmH8
+
+Group Number: 21
+
+Submitter: 19101110 Nirvik
